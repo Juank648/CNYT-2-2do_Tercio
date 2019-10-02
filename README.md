@@ -10,7 +10,10 @@ Este proyecto consta de 3 funciones principales
     1. Sistema clásico
     2. Sistema probabilístico
     3. Sistema cuántico
-2. Función que ensambla sistemas y su dinámicas
-3. Experimentode la doble rendija:
+2. Función que ensambla sistemas y su dinámicas, funciona para:
+    1. Sistema clásico
+    2. Sistema probabilístico
+    3. Sistema cuántico
+3. Experimento de la doble rendija:
     1. Probabilístico
     2. Cuántico
