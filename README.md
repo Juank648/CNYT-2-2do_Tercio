@@ -1,4 +1,4 @@
-# CNYT-2-2do_Tercio
+# CNYT-2__2do_Tercio
 # Curso CNYT Ciencias naturales y tecnología
 ---
 ## Sistemas: salto de lo clásico a lo cuántico
