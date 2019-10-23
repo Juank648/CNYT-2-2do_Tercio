@@ -1,23 +1,21 @@
 # CNYT-2__2do_Tercio
 # Curso CNYT Ciencias naturales y tecnología
 ---
-## Sistemas: salto de lo clásico a lo cuántico
-### 2 de Octubre del 2019
+## Teoría cuántica básica
+### 23 de Octubre del 2019
 ### Juan Carlos Alayón Molina
 ---
-Este proyecto denominado: Salto de lo clásico a lo cuántico, consta de 3 funciones principales, de las cuales las dos primeras cumplen para el experimento de las canicas con coeficientes booleanos, que nos da una gráfica con los resultados de la prueba, y el 3ro para el experimento de la doble rendija, ya sea probabiliístico o cuántico y de igual manera nos muestra una gráfica con los resultados obtenidos
-
-1. Sistemas y su dinámica, que funciona para:
-    1. Sistema clásico
-    2. Sistema probabilístico
-    3. Sistema cuántico
-2. Función que ensambla sistemas y su dinámicas, funciona para:
-    1. Sistema clásico
-    2. Sistema probabilístico
-    3. Sistema cuántico
-3. Experimento de la doble rendija:
-    1. Probabilístico
-    2. Cuántico
+Este proyecto denominado: Teoría cuántica básica, consta de 3 funciones principales, la primera Sistema de la posición de la partícula en una recta nos permite calcular la probabilidad de encontrar una particula en un punto de un vector ket, la segunda Valores propios del observable y probabilidad nos permite calcular valor esperado y varianza de Omega, y por ultimo Dinámica del sistema, nos permite encontar los valores y vectores propios de una matriz, ademas de de la probabilidad de que el vector estado colapse a los diferentes vectores propios de la matriz
+1. Sistema de la posición de la partícula, que funciona para:
+    1. Calcular la probabilidad de encontrar una particula en determinada posición
+    2. El sistema puede recibir dos vectores y calcular la probabilidad de transitar de el uno al otro después de hacer la observación
+2. Valores propios del observable y probabilidad, que calcula:
+    1. Valor esperado de Omega
+    2. Varianza de Omega
+3. Dinámica del sistema, que calcula:
+    1. Vectores propios de una matriz
+    2. Valores propios de una matriz
+    3. Probabilidad de que el vector estado colapse a los diferentes vectores propios de la matriz
 ---
 ### Implementación:
 
